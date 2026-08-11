@@ -1,0 +1,31 @@
+{
+  "id": "jaaltaka",
+  "title": "JaalTaka: A Benchmark Dataset for Detecting Counterfeit Bangladeshi Banknotes",
+  "author": "Bibhas Roy Chowdhury Piyas, Fatama Jannat Tisha, Sadia Rahman, Shahrin Islam, Bijoy Roy Chowdhury Preenon",
+  "year": 2025,
+  "type": "Image Classification",
+  "annotation_type": "class label",
+  "modality": "Image",
+  "classes": 2,
+  "samples": 1390,
+  "size": "7 GB",
+  "license": "CC BY 4.0",
+  "formats": [
+    "Image"
+  ],
+  "tags": [
+    "counterfeit detection",
+    "currency",
+    "classification",
+    "multi-view"
+  ],
+  "description": "JaalTaka is a benchmark dataset of Bangladeshi banknotes containing both genuine (802) and counterfeit (588) notes, totaling 1,390 samples. Genuine banknotes were sourced from three government banks (Sonali Bank Ltd, Agrani Bank Ltd, Rupali Bank Ltd), while counterfeit notes were obtained through collaboration with RAB (Rapid Action Battalion). Six images were captured per banknote from different regions focusing on key security features, making the dataset valuable for multi-view authentication models. Images include varied conditions such as wear, stains, markings, and repair artifacts.",
+  "thumbnail": "",
+  "paper": "",
+  "github": "",
+  "website": "https://data.mendeley.com/datasets/2m7wk5cy4c/2",
+  "citation": "Piyas, B.R.C.; Tisha, F.J.; Rahman, S.; Islam, S.; Preenon, B.R.C. (2025), JaalTaka: A Benchmark Dataset for Detecting Counterfeit Bangladeshi Banknotes, Mendeley Data, V2, doi: 10.17632/2m7wk5cy4c.2",
+  "featured": true,
+  "added_by": "mdnaim",
+  "last_updated": "2026-08-11"
+}

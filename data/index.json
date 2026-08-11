@@ -68,5 +68,25 @@
     "thumbnail": "",
     "author": "MIT and NYU",
     "short_description": "A well-known image classification dataset, 10 classes, 32 x 32 pixel images."
+  },
+  {
+    "id": "jaaltaka",
+    "title": "JaalTaka: Counterfeit Bangladeshi Banknotes",
+    "type": "Image Classification",
+    "year": 2025,
+    "tags": ["counterfeit detection", "currency", "classification", "multi-view"],
+    "thumbnail": "",
+    "author": "Bibhas Roy Chowdhury Piyas et al.",
+    "short_description": "1,390 multi-view images of genuine and counterfeit Bangladeshi banknotes with 6 views per note for authentication research."
+  },
+  {
+    "id": "bd-counterfeit-currency",
+    "title": "Bangladeshi Counterfeit Currency Image Dataset",
+    "type": "Image Classification",
+    "year": 2026,
+    "tags": ["counterfeit detection", "currency", "classification", "anomaly detection"],
+    "thumbnail": "",
+    "author": "Afif & Muhaiminul Rashid Shad",
+    "short_description": "1,286 labeled images of genuine and counterfeit Bangladeshi banknotes (500 & 1000 BDT) for counterfeit detection research."
   }
 ]
